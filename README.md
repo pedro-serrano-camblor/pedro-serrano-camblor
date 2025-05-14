@@ -16,21 +16,21 @@ Mi nombre es Pedro Serrano Camblor, y soy **Game Designer** desde hace 10 años.
    
 #### Narrative & Game Designer
 - Scopely Sevilla Studio (formerly known as Genjoy)
-  - Juegos publicados:
+  - <p> Juegos publicados:
     - 
 - Gamehouse Madrid Studio
-  - Juegos publicados:
+  - <p> Juegos publicados:
     - 
 - Gamehouse Alicante Studio
-  - Juegos publicados:
+  - <p> Juegos publicados:
     - 
 - Gamehouse Barcelona Studio
-  - Juegos publicados:
+  - <p> Juegos publicados:
     - 
 
 - #### Certification & Compliance Tester
 - Electronic Arts
-  - Juegos publicados:
+  - <p> Juegos publicados:
     - 
 
 
