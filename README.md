@@ -12,8 +12,26 @@ Mi nombre es Pedro Serrano Camblor, y soy **Game Designer** desde hace 10 años.
     - [Islanders: Enhanced Edition](https://store.steampowered.com/app/1046030/ISLANDERS/?l=spanish&curator_clanid=6859276)
     - [Islanders: New Shores DEMO](https://store.steampowered.com/app/3508630/ISLANDERS_New_Shores_Demo/?snr=1_7_7_240_150_1)
   - Juegos pendientes de publicación:
-    - *(Late 2025 Full Release)* [Islanders: New Shores](https://store.steampowered.com/app/2368930/ISLANDERS_New_Shores/) 
+    - *(Late 2025 Full Release)* [Islanders: New Shores](https://store.steampowered.com/app/2368930/ISLANDERS_New_Shores/)
+   
+#### Narrative & Game Designer
+- Scopely Sevilla Studio (formerly known as Genjoy)
+  - Juegos publicados:
+    - 
+- Gamehouse Madrid Studio
+  - Juegos publicados:
+    - 
+- Gamehouse Alicante Studio
+  - Juegos publicados:
+    - 
+- Gamehouse Barcelona Studio
+  - Juegos publicados:
+    - 
 
+- #### Certification & Compliance Tester
+- Electronic Arts
+  - Juegos publicados:
+    - 
 
 
 ---
