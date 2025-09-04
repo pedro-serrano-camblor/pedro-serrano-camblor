@@ -1,58 +1,60 @@
-## Me presento 👋
-Mi nombre es Pedro Serrano Camblor, y soy **Game Designer** desde hace 10 años. Actualmente soy estudiante de la cohorte 112 del bootcamp de Full Stack Developer de [4 Geeks Academy](https://4geeks.com/).
+# 👋 Hi there, I'm Pedro Serrano Camblor  
 
-
-
----
-
-## Experiencia laboral 🛠️
-#### Lead Game Designer
-- Stage Clear Studios / Thunderful Group
-  - Juegos publicados:
-    - [Islanders: Enhanced Edition](https://store.steampowered.com/app/1046030/ISLANDERS/?l=spanish&curator_clanid=6859276)
-    - [Islanders: New Shores DEMO](https://store.steampowered.com/app/3508630/ISLANDERS_New_Shores_Demo/?snr=1_7_7_240_150_1)
-  - Juegos pendientes de publicación:
-    - *(Late 2025 Full Release)* [Islanders: New Shores](https://store.steampowered.com/app/2368930/ISLANDERS_New_Shores/)
-   
-#### Narrative & Game Designer
-- Scopely Sevilla Studio (formerly known as Genjoy)
-  - <p> Juegos publicados:
-    - 
-- Gamehouse Madrid Studio
-  - <p> Juegos publicados:
-    - 
-- Gamehouse Alicante Studio
-  - <p> Juegos publicados:
-    - 
-- Gamehouse Barcelona Studio
-  - <p> Juegos publicados:
-    - 
-
-- #### Certification & Compliance Tester
-- Electronic Arts
-  - <p> Juegos publicados:
-    - 
-
+**Experienced Game Designer & Jr Full-Stack Developer**  
 
 ---
 
-## Contacto 📞
-- Email: p.serranocamblor@gmail.com
-- LinkedIn: [linkedin.com/in/pedroserranoc](https://www.linkedin.com/in/pedroserranoc/)
+## About Me  
+I’ve been working in the video game industry for more than **10 years**, mainly as a **Game Designer** and **Narrative Designer**.  
+I’m currently expanding my skills as a **Full-Stack Developer** at the [4Geeks Academy](https://4geeks.com/) (Cohort 112), learning to build complete web applications using **React, Flask, SQLAlchemy, REST APIs, PostgreSQL, and more**.  
 
+I enjoy bridging creativity with technology — whether that means **designing engaging player experiences** or **coding scalable web apps**.  
 
+---
 
-<!--
-**pedro-serrano-camblor/pedro-serrano-camblor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Professional Experience 🛠️  
 
-Here are some ideas to get you started:
+### 🎮 Lead Game Designer  
+**Stage Clear Studios / Thunderful Group**  
+- Published titles:  
+  - [Islanders: Enhanced Edition](https://store.steampowered.com/app/1046030/ISLANDERS/?l=spanish&curator_clanid=6859276)  
+  - [Islanders: New Shores DEMO](https://store.steampowered.com/app/2368930/ISLANDERS_New_Shores/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Narrative & Game Designer  
+**Scopely Sevilla Studio (formerly Genjoy)**  
+- Published titles:  
+  - [Tuscany Villa](https://www.facebook.com/tuscanyvillagame/)  
+
+**GameHouse Madrid Studio**  
+- Published titles:  
+  - [My Original Stories](https://apps.apple.com/es/app/gamehouse-original-stories/id1162720228)  
+
+**GameHouse Alicante Studio**  
+- Published titles:  
+  - [Sally's Salon: Kiss & Make-Up](https://apps.apple.com/us/app/sallys-salon-kiss-make-up/id1203328439)  
+
+**GameHouse Barcelona Studio**  
+- Published titles:  
+  - [Delicious: Emily's Road Trip](https://apps.apple.com/es/app/delicious-emilys-road-trip/id1436692735)  
+
+### 🎮 Certification & Compliance Tester  
+**Electronic Arts (EA Madrid)**  
+- Published titles:  
+  - [Madden NFL 21](https://www.playstation.com/es-es/games/madden-nfl-21/)  
+
+---
+
+## 🚀 Currently Learning  
+- **Front-End**: HTML5, CSS3, Bootstrap, JavaScript (ES6+), React.js  
+- **Back-End**: Python, Flask, SQLAlchemy, RESTful API design  
+- **Databases**: PostgreSQL, MySQL  
+- **Tools**: Git, GitHub, Docker, Postman, Agile methodologies  
+
+---
+
+## 📬 Contact  
+- 📧 Email: **p.serranocamblor@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/pedroserranoc](https://www.linkedin.com/in/pedroserranoc/)  
+- 🕹️ GitHub: [github.com/pedro-serrano-camblor](https://github.com/pedro-serrano-camblor)  
+
+---
