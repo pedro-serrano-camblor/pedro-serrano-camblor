@@ -6,7 +6,7 @@
 
 ## About Me  
 I’ve been working in the video game industry for more than **10 years**, mainly as a **Game Designer** and **Narrative Designer**.  
-I’m currently expanding my skills as a **Full-Stack Developer** at the [4Geeks Academy](https://4geeks.com/) (Cohort 112), learning to build complete web applications using **React, Flask, SQLAlchemy, REST APIs, PostgreSQL, and more**.  
+I’ve recently expanded my skills as a **Full-Stack Developer** at the [4Geeks Academy](https://4geeks.com/), learning to build complete web applications using **React, Flask, SQLAlchemy, REST APIs, PostgreSQL, and more**.  
 
 I enjoy bridging creativity with technology — whether that means **designing engaging player experiences** or **coding scalable web apps**.  
 
