@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pedro Serrano Camblor  
 
-**Experienced Game Designer & Jr Full-Stack Developer**  
+**Seasoned Game Designer & Jr Full-Stack Developer**  
 
 ---
 
