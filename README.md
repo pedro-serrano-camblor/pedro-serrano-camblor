@@ -44,7 +44,7 @@ I enjoy bridging creativity with technology — whether that means **designing e
 
 ---
 
-## 🚀 Currently Learning  
+## 🚀 Technical knowledge 
 - **Front-End**: HTML5, CSS3, Bootstrap, JavaScript (ES6+), React.js  
 - **Back-End**: Python, Flask, SQLAlchemy, RESTful API design  
 - **Databases**: PostgreSQL, MySQL  
